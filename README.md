@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Metiu19
+### Hi there 👋 
+---
+#### I'm Metiu19
 
 - 🇮🇹 Italian electronics and robotics student
 - 💻 Programming is my hobby (I use JS a lot but I'm studing more languages)
