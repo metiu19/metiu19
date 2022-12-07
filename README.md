@@ -8,6 +8,6 @@
 
 ---
 ```
-Btw there are 10 types of people, those who understand binary and those who don't
+Btw there are 0b10 types of people, those who understand binary and those who don't
 ```
 (Yes I have a t-shirt with this quote on)
