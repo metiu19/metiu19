@@ -4,7 +4,7 @@
 - 🇮🇹 Italian electronics and robotics student
 - 💻 I'm probably programming right now (Mainly for games and sometimes for small projects)
 - 🎮 Games servers admin (The list is too long, just ask me if I know it)
-- 🔤 I make **A LOT** of spelling errors because I have dyslexia, so you spot any of them just let me know!
+- 🔤 I make **A LOT** of spelling errors because I have dyslexia, so if you spot any of them just let me know!
 - 📥 You can reach me on Discord `metiu19`
 
 Most of my public repos are beginner stuff and small projects, eventually I'll make real projects!
